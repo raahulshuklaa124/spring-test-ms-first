@@ -8,7 +8,7 @@ public class FirstController {
 	
 	@GetMapping("/display")
 	public String display() {
-		return "hey there.";
+		return "hey there";
 	}
 
 }
